@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T20:15:42.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rMTypYBAGH-GeG6Mijz1" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T20:45:17.987Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gxWikMdv9M8TBgNIstVn" version="24.2.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry x="150" y="420" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2BqAnh0jqUrk7e76bJp6-18" value="Configuration Settings (Example)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Model (ChatGPT/Anthropic)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;MAX_TOKENS (16K)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;OUTPUT_DIRECTORY (../APP/DIR)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;INPUT_DIRECTORY (../APP/DIR)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;STEP_DEF_LANGUAGE (PYTHON)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;INPUT_FILE_TYPE (PDF)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;USE DOCUMENTS (Y/N)&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="425" width="280" height="200" as="geometry" />
+          <mxGeometry x="500" y="420" width="280" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
